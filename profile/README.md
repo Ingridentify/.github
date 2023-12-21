@@ -1,5 +1,6 @@
 
-![logo-no-background](https://github.com/Ingridentify/.github/assets/60042724/eea9d241-454a-47e6-a5d2-e7231c48d4ab)
+
+![logo-no-background](https://github.com/Ingridentify/.github/assets/60042724/c7d267f0-1111-48fc-b480-a821d3a78975)
 
 # Ingridentify
 
