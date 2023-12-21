@@ -1,6 +1,7 @@
 
 
 ![logo-no-background](https://github.com/Ingridentify/.github/assets/60042724/c7d267f0-1111-48fc-b480-a821d3a78975)
+<br>
 
 # Ingridentify
 
