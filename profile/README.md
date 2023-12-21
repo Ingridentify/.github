@@ -21,6 +21,19 @@ Our application leverages artificial intelligence and computer vision to recogni
 Our primary goal is to create an intuitive plant/fruit scanning application that promotes healthier eating habits and reduces food waste. We aim to empower individuals to make informed food choices, diversify their menus, and contribute to a more sustainable lifestyle.
 
 ## Team
+## Team ID : CH2-PS268
+
+<br>
+
+| Name                          | Student ID  | Path                 |
+| ----------------------------- | ----------- | -------------------- |
+| Ryan Reynickha Fatullah       | M296BSY1298 | Machine Learning     |
+| Syifa Nur'Afni Hidayat        | M494BSX0800 | Machine Learning     |
+| Adinda Putri Budi Saraswati   | C296BSX3753 | Cloud Computing      |
+| Zandy Qois                    | C296BSY4285 | Cloud Computing      |
+| Tri Putra Fauzan H. Radji     | A494BSY2646 | Mobile Development   |
+| M. Hanif Fajar Anggara        | A548BKY4469 | Mobile Development   |
+
 
 Our team is passionate about promoting healthier eating habits and reducing food waste, recognizing the significant environmental and health implications. We believe that Ingridentify has the potential to enhance the quality of life for users and contribute to a more sustainable future.
 
