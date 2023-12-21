@@ -21,7 +21,6 @@ Our application leverages artificial intelligence and computer vision to recogni
 Our primary goal is to create an intuitive plant/fruit scanning application that promotes healthier eating habits and reduces food waste. We aim to empower individuals to make informed food choices, diversify their menus, and contribute to a more sustainable lifestyle.
 
 ## Team
-<br>
 
 | Name                          | Student ID  | Path                 |
 | ----------------------------- | ----------- | -------------------- |
